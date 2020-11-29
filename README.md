@@ -1,5 +1,5 @@
 # OZDEMIR MIKAIL
- <img src="https://camo.githubusercontent.com/..." data-canonical-src="https://i.imgur.com/YKxGbmah.jpg" width="250" height="250" />
+ <img src="https://camo.githubusercontent.com/..." alt="Me, Mikail" data-canonical-src="https://i.imgur.com/YKxGbmah.jpg" style="max-widh:60%;" />
 E-mail: professional.mikailozdemir@gmail.com
 
 ## Presentation
