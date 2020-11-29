@@ -15,8 +15,8 @@ opportunities to continue my rise in skills.
 ## Education
 
 #### WildCodeSchool Strasbourg _2020-2021_ 
-Practice of the Agile and SCRUM method.
-Realization of customer projects.
+-Practice of the Agile and SCRUM method.
+-Realization of customer projects.
 
 ## Experience
 None.
