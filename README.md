@@ -1,5 +1,5 @@
 # OZDEMIR MIKAIL
-![](https://i.imgur.com/YKxGbmah.jpg {width=50px height=70px})
+![](https://i.imgur.com/YKxGbmah.jpg = 250x)
 
 E-mail: professional.mikailozdemir@gmail.com
 
