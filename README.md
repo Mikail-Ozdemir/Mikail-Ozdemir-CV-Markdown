@@ -1,5 +1,5 @@
 # OZDEMIR MIKAIL
-![](http://imgur.com/a/OUMNwf5)
+![](https://i.imgur.com/YKxGbmah.jpg)
 
 E-mail: professional.mikailozdemir@gmail.com
 
@@ -19,7 +19,7 @@ opportunities to continue my rise in skills.
 Practice of the Agile and SCRUM method.
 Realization of customer projects.
 
-## Expérience professionnelle
+## Experience
 None.
 
 ## Hobbies
