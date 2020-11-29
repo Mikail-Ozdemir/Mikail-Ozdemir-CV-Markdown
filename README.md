@@ -1,6 +1,6 @@
 # OZDEMIR MIKAIL
 ![](https://i.imgur.com/YKxGbmah.jpg)
- 
+ <img src="https://camo.githubusercontent.com/..." data-canonical-src="https://i.imgur.com/YKxGbmah.jpg" width="200" height="400" />
 E-mail: professional.mikailozdemir@gmail.com
 
 ## Presentation
